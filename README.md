@@ -1,3 +1,6 @@
-# Just some project for now
+# FDB (Family Database)
 
-#### will include project eval and project FDB
+### Features
+- Add and Save Family Members
+- Generate Family Tree Diagram
+- Posting Area for Inter-family Relationships (Future)
